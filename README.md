@@ -1,5 +1,7 @@
 # NC_Services - App de Proteção Anti-Roubo
 
+![NC_Services Logo](assets/nc_services_logo.png)
+
 ## 📱 Sobre o App
 
 NC_Services é um aplicativo de proteção anti-roubo que funciona como app do sistema, oferecendo proteção máxima para seu dispositivo.

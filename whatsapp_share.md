@@ -36,7 +36,7 @@ Obrigado!
 - Inclua seu email para receber o arquivo
 
 ### 3. Via GitHub
-- Acesse: https://github.com/nclaudelove/NC_Services
+- Acesse: https://github.com/Hiyonkuruclaudelove/NC_Services
 - Baixe o arquivo NC_Services.apk
 - Instale seguindo as instruções
 

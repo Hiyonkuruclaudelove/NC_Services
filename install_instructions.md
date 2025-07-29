@@ -72,7 +72,7 @@
 
 - **Email**: niyonkuruclaudelove@gmail.com
 - **WhatsApp**: https://wa.me/258850623533
-- **GitHub**: https://github.com/nclaudelove/NC_Services
+- **GitHub**: https://github.com/Hiyonkuruclaudelove/NC_Services
 
 ---
 
